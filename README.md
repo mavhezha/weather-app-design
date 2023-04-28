@@ -1,2 +1,2 @@
-# weather-app-design
+# weather-app-react
 Created with CodeSandbox
